@@ -1,0 +1,19 @@
+This is a little python script to calculate the length of the penduli
+used in creating a pendulum wave (a really cool physics experiment).
+
+To see some demos check out these videos:
+
+
+
+(not my pendulum).
+The idea for our penduli came from Nic Harrigan (         )
+
+
+<<< Theory >>>
+
+We have a pendulum with 
+
+length "l_0"
+mass   "m"
+
+and therefore period of  
