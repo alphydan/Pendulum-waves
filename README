@@ -2,11 +2,11 @@ This is a little python script to calculate the length of the penduli
 used in creating a pendulum wave (a really cool physics experiment).
 
 To see some demos check out these videos:
-
-
-
+http://vimeo.com/23681872
+http://www.youtube.com/watch?hl=en&v=7_AiV12XBbI
 (not my pendulum).
-The idea for our penduli came from Nic Harrigan (         )
+
+The idea for our penduli came from Nic Harrigan (http://nicholasharrigan.com/)
 
 
 <<< Theory >>>
@@ -15,5 +15,15 @@ We have a pendulum with
 
 length "l_0"
 mass   "m"
+and therefore period of   t_0  = 2 * Pi * sqrt(l_0/g)   (for small angles)
+We want it to do n_0 oscillations during period T = t_0*n_0.
 
-and therefore period of  
+For pendulum 1, we want it to do "n_0-1" oscillations during T
+for pendulum 2, we want it to do "n_0-2" oscillations during T
+etc ...
+
+
+
+
+For more explanations visit,
+http://www.arborsci.com/coolstuff/New_CoolStuff_Articles/cool43.aspx
