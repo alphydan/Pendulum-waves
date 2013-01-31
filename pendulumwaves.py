@@ -28,11 +28,3 @@ for i in lengths:
     print i[0], '->', i[1]*100
 
 
-
-# * smoke rings
-# * smoke buble
-# * Van der Graaf
-# * Reverse Fluid
-# * Glass and balls.
-# * Explosions?
-

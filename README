@@ -23,7 +23,8 @@ for pendulum 2, we want it to do "n_0-2" oscillations during T
 etc ...
 
 
-
+substituting those oscillations and periods in the formula above gives
+a recursive formula which relates the length for n and n+1.
 
 For more explanations visit,
 http://www.arborsci.com/coolstuff/New_CoolStuff_Articles/cool43.aspx
